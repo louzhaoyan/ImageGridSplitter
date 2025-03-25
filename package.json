@@ -20,17 +20,17 @@
     "canvas",
     "9-grid"
   ],
-  "author": "Your Name",
+  "author": "louzhaoyan",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^4.9.5"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/image-grid-splitter.git"
+    "url": "git+https://github.com/louzhaoyan/ImageGridSplitter.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/image-grid-splitter/issues"
+    "url": "https://github.com/louzhaoyan/ImageGridSplitter/issues"
   },
-  "homepage": "https://github.com/yourusername/image-grid-splitter#readme"
+  "homepage": "https://github.com/louzhaoyan/ImageGridSplitter#readme"
 }
