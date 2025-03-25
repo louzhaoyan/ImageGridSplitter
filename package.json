@@ -1,0 +1,36 @@
+{
+  "name": "image-grid-splitter",
+  "version": "1.0.0",
+  "description": "一个用于将图片切割成九宫格（或自定义网格）的JavaScript工具",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image",
+    "grid",
+    "split",
+    "canvas",
+    "9-grid"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/image-grid-splitter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/image-grid-splitter/issues"
+  },
+  "homepage": "https://github.com/yourusername/image-grid-splitter#readme"
+}
